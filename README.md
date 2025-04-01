@@ -24,6 +24,7 @@ Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualme
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Estatísticas do Eduardo" height="180em" src="https://github-readme-stats.vercel.app/api?username=dcaloo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+  <img align="center" alt="Estatísticas do Eduardo" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcaloo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 ### 📬 Entre em contato
