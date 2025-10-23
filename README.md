@@ -1,4 +1,3 @@
-https://www.google.com/?doodle=258248616_ClR3c3M6Ly9ncy5wb3Atc2Etc2F3MS1yLnBvcC5jbG91ZC5kb29kbGVzLmdvb2cvcG9wLXNhLXNhdzEtci1zcXVhZGxvYmJpZXMtYzlkd2YtY2dwNGsSJGMzODNmZjhkLTZkNjItNDI5MS04YWY3LThmMjIzNjMwNWQ3Zg..&ddllb=1
 ### 🏗️ Sobre mim
 
 Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualmente cursando Sistemas de Informação e estou sempre buscando novos desafios para evoluir.
