@@ -22,7 +22,8 @@ Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualme
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain.svg" />
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
-<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-line.svg" />
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
+          
           
           
           
