@@ -44,10 +44,7 @@ Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualme
 
 ### 📊 Estatísticas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Estatísticas do Eduardo" height="180em" src="https://github-readme-stats.vercel.app/api?username=dcaloo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-  <img align="center" alt="Estatísticas do Eduardo" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcaloo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</div>
+![snake gif](https://github.com/dcaloo/dcaloo/blob/output/github-contribution-grid-snake.svg)
 
 ### 📬 Entre em contato
 
@@ -92,10 +89,7 @@ Hello, I’m Eduardo! Passionate about technology and Web development. Currently
 
 ### 📊 Statistics
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Eduardo's Statistics" height="180em" src="https://github-readme-stats.vercel.app/api?username=dcaloo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-  <img align="center" alt="Eduardo's Statistics" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcaloo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</div>
+![snake gif](https://github.com/dcaloo/dcaloo/blob/output/github-contribution-grid-snake.svg)
 
 ### 📬 Get in Touch
 
