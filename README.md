@@ -50,6 +50,8 @@ Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualme
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 ### 📬 Entre em contato
 
 Quer falar sobre tecnologia, desenvolvimento ou qualquer outra coisa? Me mande um e-mail!
@@ -98,6 +100,8 @@ Hello, I’m Eduardo! Passionate about technology and Web development. Currently
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
 
 ### 📬 Get in Touch
 
