@@ -32,6 +32,8 @@ Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualme
 <img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt = "MariaDB"/>
 <img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt = "Powershell"/>
 <img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" alt = "Unity"/>
+<img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker"/>
+          
           
           
           
@@ -99,6 +101,7 @@ Hello, I’m Eduardo! Passionate about technology and Web development. Currently
 <img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt = "MariaDB"/>
 <img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt = "Powershell"/>
 <img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" alt = "Unity"/>
+<img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker"/>
           
           
           
