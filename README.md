@@ -3,7 +3,7 @@
 Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualmente cursando Sistemas de Informação e estou sempre buscando novos desafios para evoluir.
 
 - 🔍 Explorando novas possibilidades no mundo do desenvolvimento web.
-- 📚 Sempre aprendendo e aprimorando minhas habilidades em *HTML*, *CSS*, *JavaScript* e *Java*
+- 📚 Sempre aprendendo e aprimorando minhas habilidades em *HTML*, *CSS*, *JavaScript*, *Java*, etc.
 - 📩 Entre em contato comigo! eduardo.calo0304@gmail.com
 
 ---
@@ -71,7 +71,7 @@ Quer falar sobre tecnologia, desenvolvimento ou qualquer outra coisa? Me mande u
 Hello, I’m Eduardo! Passionate about technology and Web development. Currently studying Information Systems and always looking for new challenges to evolve.
 
 - 🔍 Exploring new possibilities in the world of web development.
-- 📚 Always learning and improving my skills in *HTML*, *CSS*, *JavaScript*, and *Java*.
+- 📚 Always learning and improving my skills in *HTML*, *CSS*, *JavaScript*, *Java*, etc.
 - 📩 Get in touch with me! eduardo.calo0304@gmail.com
 
 ---
