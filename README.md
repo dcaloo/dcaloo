@@ -44,7 +44,11 @@ Olá, eu sou o Eduardo! Apaixonado por tecnologia e desenvolvimento Web. atualme
 
 ### 📊 Estatísticas
 
-![snake gif](https://github.com/dcaloo/dcaloo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📬 Entre em contato
 
@@ -89,7 +93,11 @@ Hello, I’m Eduardo! Passionate about technology and Web development. Currently
 
 ### 📊 Statistics
 
-![snake gif](https://github.com/dcaloo/dcaloo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dcaloo/dcaloo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📬 Get in Touch
 
